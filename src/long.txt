@@ -27,4 +27,4 @@ line 26: base content
 line 27: base content
 line 28: base content
 line 29: base content
-line 30: changed too
+line 30: base content
