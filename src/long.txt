@@ -1,4 +1,4 @@
-line 01: base content
+line 01: changed on the fixture branch
 line 02: base content
 line 03: base content
 line 04: base content
